@@ -3,7 +3,7 @@ import sys
 
 #sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from src.exception import CustomException
+from ..exception import CustomException
 
 from src.logger import logging
 import pandas as pd
