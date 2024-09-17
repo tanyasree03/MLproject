@@ -18,7 +18,6 @@
    - **User Experience**: The interface is designed to be intuitive and user-friendly, providing real-time performance predictions based on the machine learning model, making the tool accessible to non-technical users.
 
 ### 5. **Data-driven Insights for Educational Success**  
-   - By incorporating variables like test preparation, parental education, and other test scores, the project aims to offer valuable insights into student performance, helping identify areas for improvement and guiding personalized educational strategies.
-   - **Scalability**: The modular approach and user-friendly design ensure the system can be easily adapted for different educational environments or additional factors.
+   - By incorporating variables like test preparation, parental education, and other test scores, the project aims to offer valuable insights into student performance, helping identify areas for improvement.
 
 
